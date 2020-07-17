@@ -1,6 +1,6 @@
 ### Howdy
 
-👋My name is Tom (a.k.a. Terraform Tom) and I work for HashiCorp.
+👋 My name is Tom (a.k.a. Terraform Tom) and I work for HashiCorp.
 
 🔭 I’m currently working on:
 - https://github.com/straubt1/tfe
