@@ -1,5 +1,8 @@
 ### Howdy
 
+
+[![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=straubt1&show_icons=true&theme=graywhite)](https://github.com/straubt1)
+
 👋 My name is Tom (a.k.a. Terraform Tom) and I work for HashiCorp.
 
 🔭 I’m currently working on:
